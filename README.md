@@ -13,6 +13,7 @@ A minimal 9-key macropad with an OLED display and RGB backlighting. The result o
 |500ohm resistors*         |1|
 |M3x16mm screws            |4|
 |M3x5mx4mm heatset inserts |4|
+
 *can supply personally
 
 ## Gallery
