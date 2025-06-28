@@ -10,8 +10,10 @@ A minimal 9-key macropad with an OLED display and RGB backlighting. The result o
 |0.91 inch OLED displays   |1|
 |Blank DSA keycaps         |9|
 |SK6812 MINI-E LEDs        |9|
+|500ohm resistors*         |1|
 |M3x16mm screws            |4|
 |M3x5mx4mm heatset inserts |4|
+*can supply personally
 
 ## Gallery
 ![schematic made with kicad][schematic]
